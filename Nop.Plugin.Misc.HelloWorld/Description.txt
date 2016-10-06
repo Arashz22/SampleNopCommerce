@@ -1,0 +1,9 @@
+﻿Group: Misc
+FriendlyName: Hello World
+SystemName: Misc.HelloWorld
+Version: 1.00
+SupportedVersions: 3.80
+Author: BSC team
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.HelloWorld.dll
+Description: This plugin allows you to change the view of admin theme
